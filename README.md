@@ -1,4 +1,5 @@
-<img src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm FreanJa</h2>
+<h1>👋 You are coming!</h1>
+<!-- <img alt="👋" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm FreanJa</h2> -->
 
 <!-- 
 **FreanJa/FreanJA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,7 +56,7 @@ Here are some ideas to get you started:
 ### 📡&nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/FreanJa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FreanJa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="left"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FreanJa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FreanJa&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
 </p>
