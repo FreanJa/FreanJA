@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 </br>
 
 ### 🛠&nbsp;Tech Stack
+![badge_Android](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=android&logoColor=ffffff)
 ![badge_C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff)
 ![badge_C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff)
 ![badge_CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
